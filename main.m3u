@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,TVRi
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
+#EXTINF:0,ProTV
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/wgkK28Jv7riMfBsocW7EiQ==,1614710164/channels/cme-ro-protv/playlist.m3u8
